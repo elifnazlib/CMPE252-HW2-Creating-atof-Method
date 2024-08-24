@@ -1,0 +1,67 @@
+Test 1: Case1
+--- Input ---
++
+
+--- Expected output (text)---
+Enter arithmetic operation:
+0.00 + 0.00 = 0.00
+
+---------------------------------------------------
+
+Test 2: Case2
+--- Input ---
+6-2
+
+--- Expected output (text)---
+Enter arithmetic operation:
+6.00 - 2.00 = 4.00
+
+---------------------------------------------------
+
+Test 3: Case3
+--- Input ---
+3.7/3
+
+--- Expected output (text)---
+Enter arithmetic operation:
+3.70 / 3.00 = 1.23
+
+---------------------------------------------------
+
+Test 4: Case4
+--- Input ---
+5.3*2.1
+
+--- Expected output (text)---
+Enter arithmetic operation:
+5.30 * 2.10 = 11.13
+
+---------------------------------------------------
+
+Test 5: Case5
+--- Input ---
+3.7 * 5
+
+--- Expected output (text)---
+Enter arithmetic operation:
+Error has been occurred due to inappropriate input!
+
+---------------------------------------------------
+
+Test 6: Case6
+--- Input ---
+4+hello
+
+--- Expected output (text)---
+Enter arithmetic operation:
+Error has been occurred due to inappropriate input!
+
+---------------------------------------------------
+
+Test 7: Case7
+--- Input ---
+4/0
+
+--- Expected output (text)---
+Enter arithmetic operation:
+Cannot divided into 0.

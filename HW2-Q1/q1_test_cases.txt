@@ -1,0 +1,27 @@
+Test 1: Case1
+--- Input ---
+6
+
+--- Expected output (text)---
+Enter a number:
+Your number is: 6.00
+
+---------------------------------------------------
+
+Test 2: Case2
+--- Input ---
+4.678
+
+--- Expected output (text)---
+Enter a number:
+Your number is: 4.68
+
+---------------------------------------------------
+
+Test 3: Case3
+--- Input ---
+hello
+
+--- Expected output (text)---
+Enter a number:
+Error has been occurred due to inappropriate input!
